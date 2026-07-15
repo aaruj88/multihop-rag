@@ -1,0 +1,136 @@
+{"timestamp": "2026-07-08T05:44:50.649726Z", "query": "Compare FlashAttention and Linformer in terms of complexity.", "latency_seconds": 45.0021, "decomposition_triggered": true}
+{"timestamp": "2026-07-08T05:47:39.593624Z", "query": "Compare FlashAttention and Linformer in terms of complexity.", "latency_seconds": 35.914, "decomposition_triggered": true}
+{"timestamp": "2026-07-08T05:48:17.414063Z", "query": "Compare FlashAttention and Linformer in terms of complexity.", "latency_seconds": 37.8109, "decomposition_triggered": true}
+{"timestamp": "2026-07-08T05:58:24.749855Z", "query": "Compare FlashAttention and Linformer in terms of complexity.", "latency_seconds": 20.8271, "decomposition_triggered": true}
+{"timestamp": "2026-07-08T05:59:41.841739Z", "query": "Compare FlashAttention and Linformer in terms of complexity.", "latency_seconds": 20.0563, "decomposition_triggered": true}
+{"timestamp": "2026-07-08T09:11:07.703219Z", "query": "Compare FlashAttention and Linformer in terms of complexity.", "latency_seconds": 10.695, "decomposition_triggered": true}
+{"timestamp": "2026-07-08T10:39:34.100812Z", "query": "Compare FlashAttention and Linformer in terms of complexity.", "latency_seconds": 13.1809, "decomposition_triggered": true}
+{"timestamp": "2026-07-08T11:56:02.524527Z", "query": "Who proposed Self-Attention with Relative Position Representations?", "latency_seconds": 6.2455, "decomposition_triggered": false}
+{"timestamp": "2026-07-08T11:56:09.045119Z", "query": "Who proposed Self-Attention with Relative Position Representations?", "latency_seconds": 6.4998, "decomposition_triggered": false}
+{"timestamp": "2026-07-09T15:29:22.383193Z", "query": "Who proposed Self-Attention with Relative Position Representations?", "latency_seconds": 5.5452, "decomposition_triggered": false}
+{"timestamp": "2026-07-09T15:29:27.093380Z", "query": "Who proposed Self-Attention with Relative Position Representations?", "latency_seconds": 4.7041, "decomposition_triggered": false}
+{"timestamp": "2026-07-09T17:49:05.326710Z", "query": "Who proposed Self-Attention with Relative Position Representations?", "latency_seconds": 4.674, "decomposition_triggered": false}
+{"timestamp": "2026-07-09T17:49:10.087804Z", "query": "Who proposed Self-Attention with Relative Position Representations?", "latency_seconds": 4.7462, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T11:51:14.412513Z", "query": "What is attention?", "latency_seconds": 2.1377, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T11:51:14.488234Z", "query": "What is attention?", "latency_seconds": 0.0615, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T11:51:14.565790Z", "query": "What is attention?", "latency_seconds": 0.069, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T11:51:14.641673Z", "query": "What is attention?", "latency_seconds": 0.0686, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T11:51:14.706199Z", "query": "What is attention?", "latency_seconds": 0.0563, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T11:51:14.797089Z", "query": "What is attention?", "latency_seconds": 0.0705, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T11:51:14.875777Z", "query": "What is attention?", "latency_seconds": 0.0711, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T11:51:14.935416Z", "query": "What is attention?", "latency_seconds": 0.0517, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T11:51:14.998206Z", "query": "What is attention?", "latency_seconds": 0.0554, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T11:51:15.057277Z", "query": "What is attention?", "latency_seconds": 0.0519, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T11:51:15.146711Z", "query": "What is attention?", "latency_seconds": 0.0808, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T11:51:15.217313Z", "query": "What is attention?", "latency_seconds": 0.0597, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T11:51:15.284182Z", "query": "What is attention?", "latency_seconds": 0.0589, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T11:51:15.332919Z", "query": "What is attention?", "latency_seconds": 0.0411, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T11:51:15.400039Z", "query": "What is attention?", "latency_seconds": 0.0597, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T11:51:29.906181Z", "query": "Question 1?", "latency_seconds": 0.0001, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T11:51:29.914828Z", "query": "Question 2?", "latency_seconds": 0.0001, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T11:51:29.922318Z", "query": "Question 3?", "latency_seconds": 0.0001, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T11:51:29.929997Z", "query": "Question 4?", "latency_seconds": 0.0001, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T11:51:29.937285Z", "query": "Question 5?", "latency_seconds": 0.0001, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:04:12.929024Z", "query": "What is attention?", "latency_seconds": 1.5534, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:04:12.981934Z", "query": "What is attention?", "latency_seconds": 0.0376, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:04:13.022937Z", "query": "What is attention?", "latency_seconds": 0.0341, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:04:13.072861Z", "query": "What is attention?", "latency_seconds": 0.0428, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:04:13.122681Z", "query": "What is attention?", "latency_seconds": 0.0432, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:04:13.181086Z", "query": "What is attention?", "latency_seconds": 0.0428, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:04:13.225059Z", "query": "What is attention?", "latency_seconds": 0.0368, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:04:13.270855Z", "query": "What is attention?", "latency_seconds": 0.0376, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:04:13.316640Z", "query": "What is attention?", "latency_seconds": 0.0392, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:04:13.362296Z", "query": "What is attention?", "latency_seconds": 0.0395, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:04:13.421733Z", "query": "What is attention?", "latency_seconds": 0.0525, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:04:13.480858Z", "query": "What is attention?", "latency_seconds": 0.0517, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:04:13.544537Z", "query": "What is attention?", "latency_seconds": 0.056, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:04:13.578903Z", "query": "What is attention?", "latency_seconds": 0.0272, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:04:13.631608Z", "query": "What is attention?", "latency_seconds": 0.0452, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:04:59.859308Z", "query": "What is attention?", "latency_seconds": 1.6412, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:04:59.914943Z", "query": "What is attention?", "latency_seconds": 0.0365, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:04:59.980932Z", "query": "What is attention?", "latency_seconds": 0.0551, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:05:00.037563Z", "query": "What is attention?", "latency_seconds": 0.0468, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:05:00.104500Z", "query": "What is attention?", "latency_seconds": 0.0546, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:05:00.165476Z", "query": "What is attention?", "latency_seconds": 0.0395, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:05:00.214771Z", "query": "What is attention?", "latency_seconds": 0.0385, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:05:00.260648Z", "query": "What is attention?", "latency_seconds": 0.037, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:05:00.305707Z", "query": "What is attention?", "latency_seconds": 0.0365, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:05:00.363546Z", "query": "What is attention?", "latency_seconds": 0.0485, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:05:00.429537Z", "query": "What is attention?", "latency_seconds": 0.0579, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:05:00.486343Z", "query": "What is attention?", "latency_seconds": 0.0481, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:05:00.544197Z", "query": "What is attention?", "latency_seconds": 0.0488, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:05:00.587697Z", "query": "What is attention?", "latency_seconds": 0.0347, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:05:00.641577Z", "query": "What is attention?", "latency_seconds": 0.0456, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:05:00.681449Z", "query": "What is attention?", "latency_seconds": 0.0001, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:16:56.146864Z", "query": "What is attention?", "latency_seconds": 1.4849, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:16:56.192551Z", "query": "What is attention?", "latency_seconds": 0.0304, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:16:56.237009Z", "query": "What is attention?", "latency_seconds": 0.0374, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:16:56.285397Z", "query": "What is attention?", "latency_seconds": 0.0417, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:16:56.319353Z", "query": "What is attention?", "latency_seconds": 0.0267, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:16:56.374496Z", "query": "What is attention?", "latency_seconds": 0.04, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:16:56.408165Z", "query": "What is attention?", "latency_seconds": 0.0271, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:16:56.443096Z", "query": "What is attention?", "latency_seconds": 0.0288, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:16:56.482354Z", "query": "What is attention?", "latency_seconds": 0.0315, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:16:56.521965Z", "query": "What is attention?", "latency_seconds": 0.0326, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:16:56.560766Z", "query": "What is attention?", "latency_seconds": 0.032, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:16:56.594446Z", "query": "What is attention?", "latency_seconds": 0.0277, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:16:56.628221Z", "query": "What is attention?", "latency_seconds": 0.0277, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:16:56.673476Z", "query": "What is attention?", "latency_seconds": 0.0387, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:16:56.704483Z", "query": "What is attention?", "latency_seconds": 0.0248, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:16:56.729472Z", "query": "What is attention?", "latency_seconds": 0.0001, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:17:25.091537Z", "query": "Question 1?", "latency_seconds": 0.0001, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:17:25.099401Z", "query": "Question 2?", "latency_seconds": 0.0001, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:17:25.106733Z", "query": "Question 3?", "latency_seconds": 0.0001, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:17:25.114949Z", "query": "Question 4?", "latency_seconds": 0.0001, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:17:25.122412Z", "query": "Question 5?", "latency_seconds": 0.0001, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:34:47.542685Z", "query": "What is attention?", "latency_seconds": 1.5916, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:34:47.612127Z", "query": "What is attention?", "latency_seconds": 0.046, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:34:47.659266Z", "query": "What is attention?", "latency_seconds": 0.0364, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:34:47.702083Z", "query": "What is attention?", "latency_seconds": 0.0323, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:34:47.741576Z", "query": "What is attention?", "latency_seconds": 0.0319, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:34:47.791505Z", "query": "What is attention?", "latency_seconds": 0.033, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:34:47.849370Z", "query": "What is attention?", "latency_seconds": 0.0498, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:34:47.888594Z", "query": "What is attention?", "latency_seconds": 0.0314, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:34:47.926169Z", "query": "What is attention?", "latency_seconds": 0.0295, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:34:47.966791Z", "query": "What is attention?", "latency_seconds": 0.0329, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:34:48.012971Z", "query": "What is attention?", "latency_seconds": 0.0392, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:34:48.052819Z", "query": "What is attention?", "latency_seconds": 0.0321, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:34:48.094032Z", "query": "What is attention?", "latency_seconds": 0.0332, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:34:48.134039Z", "query": "What is attention?", "latency_seconds": 0.0312, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:34:48.172100Z", "query": "What is attention?", "latency_seconds": 0.03, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T12:34:48.199162Z", "query": "What is attention?", "latency_seconds": 0.0001, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T17:57:46.503544Z", "query": "What is attention?", "latency_seconds": 0.1153, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T17:57:46.542625Z", "query": "What is attention?", "latency_seconds": 0.0334, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T17:57:46.564772Z", "query": "What is attention?", "latency_seconds": 0.0176, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T17:57:46.597384Z", "query": "What is attention?", "latency_seconds": 0.0277, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T17:57:46.618757Z", "query": "What is attention?", "latency_seconds": 0.0166, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T17:57:46.643480Z", "query": "What is attention?", "latency_seconds": 0.0135, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T17:57:46.668497Z", "query": "What is attention?", "latency_seconds": 0.0206, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T17:57:46.686693Z", "query": "What is attention?", "latency_seconds": 0.0123, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T17:57:46.707088Z", "query": "What is attention?", "latency_seconds": 0.0157, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T17:57:46.732846Z", "query": "What is attention?", "latency_seconds": 0.0212, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T17:57:46.769760Z", "query": "What is attention?", "latency_seconds": 0.0316, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T17:57:46.791328Z", "query": "What is attention?", "latency_seconds": 0.0171, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T17:57:46.813433Z", "query": "What is attention?", "latency_seconds": 0.018, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T17:57:46.832790Z", "query": "What is attention?", "latency_seconds": 0.0146, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T17:57:46.848659Z", "query": "What is attention?", "latency_seconds": 0.0118, "decomposition_triggered": false}
+{"timestamp": "2026-07-10T17:57:46.863398Z", "query": "What is attention?", "latency_seconds": 0.0, "decomposition_triggered": false}
+{"timestamp": "2026-07-13T07:42:47.802361Z", "query": "tell me the apparatus configuration for the experiment calibration of supersonic tunnel", "latency_seconds": 9.3781, "decomposition_triggered": false}
+{"timestamp": "2026-07-13T07:46:32.094592Z", "query": "tell me the experimental setup required for the experiment Strain Gauging and Calibration of a Cantilever Beam", "latency_seconds": 8.9876, "decomposition_triggered": false}
+{"timestamp": "2026-07-13T07:47:54.501307Z", "query": "what is the experimental setup for Strain Gauging and Calibration of a Cantilever Beam", "latency_seconds": 12.4701, "decomposition_triggered": true}
+{"timestamp": "2026-07-13T08:58:42.671935Z", "query": "What is attention?", "latency_seconds": 1.9219, "decomposition_triggered": false}
+{"timestamp": "2026-07-13T08:58:42.736604Z", "query": "What is attention?", "latency_seconds": 0.0503, "decomposition_triggered": false}
+{"timestamp": "2026-07-13T08:58:42.801329Z", "query": "What is attention?", "latency_seconds": 0.0573, "decomposition_triggered": false}
+{"timestamp": "2026-07-13T08:58:42.869588Z", "query": "What is attention?", "latency_seconds": 0.0595, "decomposition_triggered": false}
+{"timestamp": "2026-07-13T08:58:42.929104Z", "query": "What is attention?", "latency_seconds": 0.0532, "decomposition_triggered": false}
+{"timestamp": "2026-07-13T08:58:42.998575Z", "query": "What is attention?", "latency_seconds": 0.0559, "decomposition_triggered": false}
+{"timestamp": "2026-07-13T08:58:43.058882Z", "query": "What is attention?", "latency_seconds": 0.0533, "decomposition_triggered": false}
+{"timestamp": "2026-07-13T08:58:43.122911Z", "query": "What is attention?", "latency_seconds": 0.0567, "decomposition_triggered": false}
+{"timestamp": "2026-07-13T08:58:43.180843Z", "query": "What is attention?", "latency_seconds": 0.0525, "decomposition_triggered": false}
+{"timestamp": "2026-07-13T08:58:43.220259Z", "query": "What is attention?", "latency_seconds": 0.0331, "decomposition_triggered": false}
+{"timestamp": "2026-07-13T08:58:43.265595Z", "query": "What is attention?", "latency_seconds": 0.0392, "decomposition_triggered": false}
+{"timestamp": "2026-07-13T08:58:43.320973Z", "query": "What is attention?", "latency_seconds": 0.0496, "decomposition_triggered": false}
+{"timestamp": "2026-07-13T08:58:43.368311Z", "query": "What is attention?", "latency_seconds": 0.0408, "decomposition_triggered": false}
+{"timestamp": "2026-07-13T08:58:43.397610Z", "query": "What is attention?", "latency_seconds": 0.0232, "decomposition_triggered": false}
+{"timestamp": "2026-07-13T08:58:43.437716Z", "query": "What is attention?", "latency_seconds": 0.0341, "decomposition_triggered": false}
+{"timestamp": "2026-07-13T08:58:43.460197Z", "query": "What is attention?", "latency_seconds": 0.0001, "decomposition_triggered": false}

@@ -1,0 +1,2 @@
+# This directory is intentionally empty – place source PDFs here.
+# They will be downloaded automatically by src/ingestion/fetch_papers.py.

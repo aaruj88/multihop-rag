@@ -1,0 +1,33 @@
+# Vector store
+qdrant-client>=1.9.0
+
+# Embeddings
+sentence-transformers>=3.0.0
+
+# BM25 sparse retrieval
+rank_bm25>=0.2.2
+
+# Groq SDK
+groq>=0.9.0
+
+# API server
+fastapi>=0.111.0
+uvicorn[standard]>=0.30.0
+slowapi>=0.1.9
+
+# Evaluation
+ragas>=0.1.14
+
+# PDF parsing
+pypdf>=4.2.0
+
+# Testing
+pytest>=8.2.0
+pytest-asyncio>=0.23.0
+
+# Utilities
+python-dotenv>=1.0.1
+requests>=2.32.0
+tqdm>=4.66.0
+apscheduler>=3.10.0
+

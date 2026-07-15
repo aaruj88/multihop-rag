@@ -1,0 +1,52 @@
+# arxiv_ids.txt — Attention Mechanisms & Variants (15 papers)
+# One arXiv ID per line. Blank lines and lines starting with '#' are ignored.
+
+# ── Foundational Attention ──────────────────────────────────────────────────
+# Attention is All You Need (original Transformer)
+1706.03762
+
+# Neural Machine Translation by Jointly Learning to Align and Translate (Bahdanau)
+1409.0473
+
+# Effective Approaches to Attention-based NMT (Luong)
+1508.04025
+
+# Self-Attention with Relative Position Representations (Shaw et al.)
+1803.02155
+
+# ── Efficient / Sparse Attention ────────────────────────────────────────────
+# Longformer: Long-Document Transformer (sliding-window + global attention)
+2004.05150
+
+# Big Bird: Transformers for Longer Sequences (sparse attention)
+2007.14062
+
+# Linformer: Self-Attention with Linear Complexity
+2006.04733
+
+# Nyströmformer: Nyström-Based Self-Attention Approximation
+2102.09672
+
+# Reformer: The Efficient Transformer (LSH attention)
+2001.04451
+
+# ── Hardware-Aware / IO-Optimal Attention ───────────────────────────────────
+# FlashAttention: Fast and Memory-Efficient Exact Attention
+2205.14135
+
+# FlashAttention-2: Faster Attention with Better Parallelism
+2307.08691
+
+# ── Positional Encoding for Attention ───────────────────────────────────────
+# RoFormer: Rotary Position Embedding (RoPE)
+2104.09864
+
+# ALiBi: Train Short, Test Long (linear biases instead of learned positions)
+2108.12409
+
+# ── Cross-Modal & Multi-Head Variants ───────────────────────────────────────
+# Vision Transformer (ViT): An Image is Worth 16x16 Words
+2010.11929
+
+# Multi-Head Attention: Collaborate Less and Specialize More
+2006.16362
