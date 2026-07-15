@@ -15,7 +15,10 @@ class MockCrossEncoder:
 
 class Reranker:
     def __init__(self, model_name: str = "BAAI/bge-reranker-base"):
-        if os.getenv("MOCK_MODELS", "false").lower() == "true":
+        self.disabled = os.getenv("DISABLE_RERANKER", "false").lower() == "true"
+        if self.disabled:
+            self.model = None
+        elif os.getenv("MOCK_MODELS", "false").lower() == "true":
             self.model = MockCrossEncoder()
         else:
             import torch
@@ -29,6 +32,9 @@ class Reranker:
         """
         if not candidates:
             return []
+
+        if self.disabled:
+            return candidates[:top_k]
 
         # Prepare pairs for cross-encoder
         pairs = [(query, c["text"]) for c in candidates]

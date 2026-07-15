@@ -239,3 +239,22 @@ def test_multihop_retriever(mock_decompose):
     assert results[1]["matched_queries"] == ["sub-q1"]
 
 
+def test_reranker_disabled():
+    with patch.dict("os.environ", {"DISABLE_RERANKER": "true"}):
+        reranker = Reranker()
+        assert reranker.disabled is True
+        assert reranker.model is None
+        
+        candidates = [
+            {"chunk_id": "chunk-1", "text": "text 1", "score": 0.9},
+            {"chunk_id": "chunk-2", "text": "text 2", "score": 0.8},
+            {"chunk_id": "chunk-3", "text": "text 3", "score": 0.7},
+        ]
+        
+        res = reranker.rerank("query", candidates, top_k=2)
+        assert len(res) == 2
+        assert res[0]["chunk_id"] == "chunk-1"
+        assert res[1]["chunk_id"] == "chunk-2"
+
+
+

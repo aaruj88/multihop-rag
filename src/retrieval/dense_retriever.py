@@ -27,6 +27,8 @@ class DenseRetriever:
             from sentence_transformers import SentenceTransformer
             import torch
             device = "cpu" if os.getenv("FORCE_CPU", "true").lower() == "true" or not torch.cuda.is_available() else "cuda"
+            if device == "cpu":
+                torch.set_num_threads(1)
             self.model = SentenceTransformer(model_name, device=device)
         
         qdrant_url = os.getenv("QDRANT_URL")

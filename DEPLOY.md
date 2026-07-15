@@ -39,13 +39,14 @@ Render automatically builds and runs the container from the [Dockerfile](file://
    - **Region**: Select a region close to your user base.
    - **Branch**: `main` (or your active feature branch)
    - **Runtime**: `Docker`
-   - **Instance Type**: **Starter** (512MB or 1GB RAM) is recommended. 
-     *(Note: Hugging Face models running on CPU require standard system memory. The Free tier has 512MB RAM, which might hit memory limits when initializing PyTorch. If using Free tier, ensure `MOCK_MODELS=true` is set if you run out of memory, or select the Starter tier).*
+   - **Instance Type**: **Free** (512MB RAM) or **Starter** (512MB or 1GB RAM). 
+     *(Note: Hugging Face models running on CPU require standard system memory. The Free tier has 512MB RAM, which will run out of memory when initializing PyTorch and the 1.1GB reranker model. If deploying to the Free tier, set the environment variable `DISABLE_RERANKER=true` to turn off the reranker model and run purely on hybrid search, keeping memory usage well under 512MB).*
 5. Add the following **Environment Variables** under the "Environment" tab:
    - `GROQ_API_KEY`: *(Your Groq API key)*
    - `GEMINI_API_KEY`: *(Your Google Gemini API key)*
    - `QDRANT_URL`: *(Your Qdrant Cloud URL)*
    - `QDRANT_API_KEY`: *(Your Qdrant Cloud API Key)*
+   - `DISABLE_RERANKER`: `true` *(set to `true` on the Free tier to disable the heavy 1.1GB reranker and prevent OOM errors)*
    - `ALLOWED_ORIGINS`: `https://your-frontend-domain.vercel.app` (or `*` temporarily to allow all domains)
 6. Click **Deploy Web Service**.
 
