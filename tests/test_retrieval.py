@@ -257,4 +257,12 @@ def test_reranker_disabled():
         assert res[1]["chunk_id"] == "chunk-2"
 
 
+def test_reranker_auto_disabled_on_render():
+    with patch.dict("os.environ", {"RENDER": "true"}):
+        reranker = Reranker()
+        assert reranker.disabled is True
+        assert reranker.model is None
+
+
+
 

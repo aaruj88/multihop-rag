@@ -40,12 +40,10 @@ COPY --chown=appuser:appuser src/ /app/src/
 
 USER appuser
 
-# Pre-cache Hugging Face embedding and reranker models in the Docker image
-RUN python -c "from sentence_transformers import SentenceTransformer, CrossEncoder; \
+# Pre-cache Hugging Face embedding model in the Docker image
+RUN python -c "from sentence_transformers import SentenceTransformer; \
 print('Pre-downloading BAAI/bge-small-en-v1.5...'); \
-SentenceTransformer('BAAI/bge-small-en-v1.5'); \
-print('Pre-downloading BAAI/bge-reranker-base...'); \
-CrossEncoder('BAAI/bge-reranker-base')"
+SentenceTransformer('BAAI/bge-small-en-v1.5')"
 
 EXPOSE 8000
 

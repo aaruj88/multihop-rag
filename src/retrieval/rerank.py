@@ -15,7 +15,10 @@ class MockCrossEncoder:
 
 class Reranker:
     def __init__(self, model_name: str = "BAAI/bge-reranker-base"):
-        self.disabled = os.getenv("DISABLE_RERANKER", "false").lower() == "true"
+        # Auto-detect if running on Render (which has a 512MB memory limit on the free tier)
+        is_render = os.getenv("RENDER", "false").lower() == "true"
+        default_disabled = "true" if is_render else "false"
+        self.disabled = os.getenv("DISABLE_RERANKER", default_disabled).lower() == "true"
         if self.disabled:
             self.model = None
         elif os.getenv("MOCK_MODELS", "false").lower() == "true":
